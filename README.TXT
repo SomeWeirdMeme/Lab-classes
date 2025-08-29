@@ -9,3 +9,13 @@
  true is boolean
  "33" is a string
  3.1415 is a decimal not quite sure
+ 
+ 32.To add field by declaring, write it and give it a value.
+ 
+ 33.
+ 
+ 34.
+ 
+ 35.
+ 
+ 36. yes an object can infact have several classes.
